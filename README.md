@@ -1,15 +1,18 @@
-# Tailwind CSS Playground
+# Let's Build: With Tailwind CSS - Movie Production Landing Page
 
-A simple starter project for playing around with Tailwind in a proper PostCSS environment.
+This project is the final result of creating a movie production landing page replica of a popular theme on Wix.com. It's merely an experiment to showcase what's possible with Tailwind CSS. You can watch me code it from scratch here:
+
+[https://web-crunch.com/tailwind-css-movie-production-landing-page](https://web-crunch.com/tailwind-css-movie-production-landing-page)
+
 
 To get started:
 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/tailwindcss/playground.git tailwindcss-playground
+    git clone https://github.com/justalever/tailwind-production-landing-page
 
-    cd tailwindcss-playground
+    cd tailwind-production-lading-page
     ```
 
 2. Install the dependencies:
