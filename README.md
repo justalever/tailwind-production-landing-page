@@ -1,3 +1,5 @@
+![https://i.imgur.com/rt4Q01S.jpg](https://i.imgur.com/rt4Q01S.jpg)
+
 # Let's Build: With Tailwind CSS - Movie Production Landing Page
 
 This project is the final result of creating a movie production landing page replica of a popular theme on Wix.com. It's merely an experiment to showcase what's possible with Tailwind CSS. You can watch me code it from scratch here:
